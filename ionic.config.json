@@ -1,0 +1,7 @@
+{
+  "name": "Ecom",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
